@@ -13,4 +13,3 @@ elif lastdigit < 6 and lastdigit != 0:
           .format(number, lastdigit))
 elif lastdigit == 0:
     print("Last digit of {:d} is {:d} and is 0".format(number, lastdigit))
-
